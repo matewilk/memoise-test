@@ -1,0 +1,20 @@
+{
+  "name": "memoize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -s test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "delay": "^2.0.0",
+    "lolex": "^2.3.2",
+    "sinon": "^4.5.0"
+  },
+  "dependencies": {
+    "memoizee": "^0.4.12"
+  }
+}
